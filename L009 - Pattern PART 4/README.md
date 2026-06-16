@@ -141,12 +141,12 @@ This folder contains advanced pattern printing problems involving pyramids, reve
 
 ```text
       *
-    * *
-  * * *
-* * * *
-* * * *
-  * * *
-    * *
+    *   *
+  *   *   *   
+*   *   *   *
+*   *   *   *
+  *   *   *
+    *   *
       *
 ```
 
