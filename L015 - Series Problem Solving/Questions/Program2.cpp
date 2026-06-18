@@ -1,4 +1,4 @@
-//WAP to convert a character into to upper case without usig inbuilt function .tolower()
+//WAP to convert a character into to upper case without usig inbuilt function .toupper()
 
 #include <iostream>
 using namespace std;
