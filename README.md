@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Lectures-17-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lectures-20-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Problems-100%2B-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 </p>
@@ -62,10 +62,16 @@ I started this repository to keep track of my progress, improve consistency, and
 - ✅ L016 - Arrays Part 1
 - ✅ L017 - Arrays Part 2
 
+### Time and Space
+- ✅ L018 - Time & Space Complexity
+
+### Sorting
+- ✅ L019 - Selection Sort
+- ✅ L020 - Bubble Sort
+
 ### Upcoming Topics
 - ⬜ Strings
 - ⬜ Searching
-- ⬜ Sorting
 - ⬜ Pointers
 - ⬜ Recursion
 - ⬜ Linked Lists
@@ -104,7 +110,11 @@ DSA-Journey
 ├── L014 - Functions
 ├── L015 - Series Problem Solving
 ├── L016 - Arrays PART 1
-└── L017 - Arrays PART 2
+├── L017 - Arrays PART 2
+├── L018 - Time & Space Complexity
+├── L019 - Selection Sort
+└── L020 - Bubble Sort
+
 ```
 
 Each lecture folder contains:
@@ -120,7 +130,7 @@ Each lecture folder contains:
 
 | Metric | Count |
 |----------|----------|
-| Lectures Completed | 17 |
+| Lectures Completed | 20 |
 | Problems Solved | 100+ |
 | Language | C++ |
 | Status | Active |
